@@ -8,7 +8,7 @@ For the battery charge/discharge time, I used a custom template macro, called 'H
 
 I also highly recommend installing the following LoveLace mods, which is used in this dashboard. Without these mods, you will see unknown card type errrors.
 
-Lovelace-card-mode
-Lovelace-layout-card
-Lovelace-state-swtich.
+Lovelace-card-mode  
+Lovelace-layout-card  
+Lovelace-state-swtich  
 
