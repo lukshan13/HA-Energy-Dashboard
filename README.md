@@ -12,3 +12,4 @@ Lovelace-card-mode
 Lovelace-layout-card  
 Lovelace-state-swtich  
 
+<img width="1080" height="863" alt="image" src="https://github.com/user-attachments/assets/aac91f3a-fd58-4126-ae9b-a3689439fb50" />
